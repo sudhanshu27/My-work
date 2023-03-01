@@ -1,6 +1,6 @@
 # My-work
 
-**My name is Sudhanshu Pal. I am a Btech Final year Student at IET Lucknow persuing Electronics and Instrumentation Engineering.**  
+**My name is Sudhanshu Pal. I am a Btech Final year Student at IET Lucknow pursuing Electronics and Instrumentation Engineering.**  
 **I am interested in Software Development and Problem Solving.**
 
 ● Ranked 35/4400+ in Geeks for Geeks Job-A-Thon 8.0.  
