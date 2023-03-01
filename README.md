@@ -8,7 +8,7 @@
 ● Solved 300+ programming problems on LeetCode and InterviewBit.  
 ● Participated in many coding competitions on various Coding Platforms.  
 ● Leetcode Profile-- https://leetcode.com/sudhanshu_27/  
-● Interview bit profile-- https://www.interviewbit.com/profile/not-that-shobhit  
+● Interview bit Profile-- https://www.interviewbit.com/profile/not-that-shobhit  
 ● Codechef Profile -- https://www.codechef.com/users/sudhanshu_27  
 
 **Projects that i have build on React js and node js**
