@@ -1,6 +1,6 @@
 # My-work
 
-**My name is Sudhanshu Pal I am a Btech Final year Student at IET Lucknow persuing Electronics and Instrumentation Engineering.**  
+**My name is Sudhanshu Pal. I am a Btech Final year Student at IET Lucknow persuing Electronics and Instrumentation Engineering.**  
 **I am interested in Software Development and Problem Solving.**
 
 ● Ranked 35/4400+ in Geeks for Geeks Job-A-Thon 8.0.  
@@ -9,6 +9,7 @@
 ● Participated in many coding competitions on various Coding Platforms.  
 ● Leetcode Profile-- https://leetcode.com/sudhanshu_27/  
 ● Interview bit profile-- https://www.interviewbit.com/profile/not-that-shobhit  
+● Codechef Profile -- https://www.codechef.com/users/sudhanshu_27  
 
 **Projects that i have build on React js and node js**
 
